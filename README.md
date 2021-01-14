@@ -6,4 +6,4 @@
 - Create a page that displays at least 3 diff contact card with diff info.
 
 ## Live webpage: 
-[Webpage](https://cuny-ttp-residency.github.io/contact-card-exericse-ttp/)
+[Webpage](https://cuny-ttp-residency.github.io/contact-card-exericse-TTP/)
